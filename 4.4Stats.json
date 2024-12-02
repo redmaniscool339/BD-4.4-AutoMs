@@ -1,0 +1,279 @@
+{ 
+"ClassStats": [
+        {
+            "Class": "Bard",
+            "HP": 80,
+            "A": 10,
+            "M": 10,
+            "PD": 1,
+            "MD": 1,
+            "MP": 3
+        },
+        {
+            "Class": "smith",
+            "HP": 65,
+            "A": 10,
+            "M": 9,
+            "PD": 8,
+            "MD": 10,
+            "MP": 3
+        },
+        {
+            "Class": "cleric",
+            "HP": 55,
+            "A": 5,
+            "M": 8,
+            "PD": 3,
+            "MD": 3,
+            "MP": 3
+        },
+      
+        {
+            "Class": "dancer",
+            "HP": 70,
+            "A": 14,
+            "M": 13,
+            "PD": 3,
+            "MD": 5,
+            "MP": 3
+        },
+        {
+            "Class": "monk",
+            "HP": 75,
+            "A": 12,
+            "M": 11,
+            "PD": 1,
+            "MD": 0,
+            "MP": 3
+        },
+ {
+            "Class": "palad",
+            "HP": 85,
+            "A": 8,
+            "M": 8,
+            "PD": 10,
+            "MD": 7,
+            "MP": 2
+        },
+ {
+            "Class": "rift",
+            "HP": 60,
+            "A": 12,
+            "M": 13,
+            "PD": 0,
+            "MD": 0,
+            "MP": 3
+        },
+ {
+            "Class": "Skirm",
+            "HP": 65,
+            "A": 15,
+            "M": 15,
+            "PD": 4,
+            "MD": 3,
+            "MP": 4
+        }
+
+  ],
+"WeaponStats":[
+ {
+            "Weapon": "Crossbow",
+            "HP": 60,
+            "A": 15,
+            "M": 9,
+            "PD": 5,
+            "MD": 3,
+            "MP": 2
+        },
+ {
+            "Weapon": "Longbow",
+            "HP": 60,
+            "A": 19,
+            "M": 11,
+            "PD": 0,
+            "MD": 2,
+            "MP": 0
+        },
+
+ {
+            "Weapon": "Shortbow",
+            "HP": 60,
+            "A": 15,
+            "M": 12,
+            "PD": 3,
+            "MD": 2,
+            "MP": 3
+        },
+ {
+            "Weapon": "cards",
+            "HP": 60,
+            "A": 5,
+            "M": 8,
+            "PD": 3,
+            "MD": 5,
+            "MP": 2
+        },
+
+ {
+            "Weapon": "lunarrod",
+            "HP": 70,
+            "A": 3,
+            "M": 15,
+            "PD": 0,
+            "MD": 2,
+            "MP": 2
+        },
+ {
+            "Weapon": "orb",
+            "HP": 60,
+            "A": 9,
+            "M": 18,
+            "PD": 1,
+            "MD": 5,
+            "MP": 1
+        },
+ {
+            "Weapon": "athame",
+            "HP": 65,
+            "A": 9,
+            "M": 10,
+            "PD": 4,
+            "MD": 3,
+            "MP": 3
+        },
+
+ {
+            "Weapon": "Scythe",
+            "HP": 70,
+            "A": 9,
+            "M": 14,
+            "PD": 6,
+            "MD": 4,
+            "MP": 2
+        },
+ {
+            "Weapon": "totems",
+            "HP": 75,
+            "A": 5,
+            "M": 13,
+            "PD": 0,
+            "MD": 5,
+            "MP": 1
+        },
+ {
+            "Weapon": "Gladius",
+            "HP": 70,
+            "A": 17,
+            "M": 3,
+            "PD": 3,
+            "MD": 5,
+            "MP": 2
+        },
+ {
+            "Weapon": "quaterstaff",
+            "HP": 65,
+            "A": 15,
+            "M": 3,
+            "PD": 3,
+            "MD": 3,
+            "MP": 2
+        },
+ {
+            "Weapon": "tonfa",
+            "HP": 55,
+            "A": 14,
+            "M": 12,
+            "PD": 8,
+            "MD": 8,
+            "MP": 2
+        },
+ {
+            "Weapon": "axe",
+            "HP": 75,
+            "A": 26,
+            "M": 0,
+            "PD": 3,
+            "MD": 1,
+            "MP": 1
+        },
+ {
+            "Weapon": "hammer",
+            "HP": 70,
+            "A": 20,
+            "M": 7,
+            "PD": 4,
+            "MD": 3,
+            "MP": 1
+        },
+ {
+            "Weapon": "tomahawk",
+            "HP": 65,
+            "A": 13,
+            "M":5 ,
+            "PD": 5,
+            "MD": 4,
+            "MP": 2
+        },
+ {
+            "Weapon": "crown",
+            "HP": 70,
+            "A": 10,
+            "M": 12,
+            "PD": 6,
+            "MD": 5,
+            "MP": 1
+        },
+ {
+            "Weapon": "katana",
+            "HP": 65,
+            "A": 16,
+            "M":14,
+            "PD": 2,
+            "MD": 1,
+            "MP": 3
+        },
+ {
+            "Weapon": "rapier",
+            "HP": 65,
+            "A": 4,
+            "M": 3,
+            "PD": 2,
+            "MD": 2,
+            "MP": 2
+        },
+ {
+            "Weapon": "shill",
+            "HP": 65,
+            "A": 17,
+            "M": 17,
+            "PD": 4,
+            "MD": 4,
+            "MP": 1
+        },
+ {
+            "Weapon": "spellbook",
+            "HP": 55,
+            "A": 0,
+            "M": 18,
+            "PD": 3,
+            "MD": 4,
+            "MP": 2
+        },
+ {
+            "Weapon": "talisman",
+            "HP": 65,
+            "A": 5,
+            "M": 14,
+            "PD": 2,
+            "MD": 6,
+            "MP": 2
+        }
+
+
+
+]
+
+
+
+ 
+}
